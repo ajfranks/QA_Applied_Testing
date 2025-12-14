@@ -10,16 +10,17 @@ The project was divided into three main testing tasks, each targeting a differen
 
 Task 1: Web Application Testing 
 - Tested the Urban Scooter web interface
-- Focused on the "About Customer" form on the place order screen
+- Focused on the "About Customer" form
 - Designed and executed positive and negative test cases
 - Performed cross-browser testing (Chrome & Opera)
 
 Task 2: Mobile Application Testing
-- Tested the Android mobile application using a Pixel 5 emulator
-- Validated core features highlighted in the requirements
-- Verified UI layout using Figma designs
-- Used backend API setup to create and log in a courier
-- Designed and executed API test cases 
+- Tested the Urban Scooter Android mobile application using Android Studio with a Pixel 5 Emulator 
+- Designed and executed test cases
+- Validated UI layout using Figma designs
+- Used Postman to send a POST request with a JSON request body to create a courier account required for mobile app loin
+- Verified mobile app interaction with the backend API
+
 
 Task 3: Backend (API) Testing:
 - Tested the Urban Scooter backend API
@@ -32,5 +33,11 @@ Task 3: Backend (API) Testing:
 - Task 2: 38 test cases
 - Task 3: 31 test cases
 
-## 
+## Tools & Technologies
+- Mobile App Testing: Android Studio with Pixel 5 Emulator
+- Browser Testing: Google Chrome & Opera
+- Bug Reporting: [Jira](https://alyssafranks.atlassian.net/jira/software/c/projects/AF9/list?jql=project%20%3D%20AF9%20ORDER%20BY%20created%20DESC&selectedIssue=AF9-32)
+- Test Case Documentation: [Microsoft Excel](https://docs.google.com/spreadsheets/d/1MC809gpvX9atGDPhO9FOwlJIKGrFVat9gURV0bnyVD0/edit?gid=1103582295#gid=1103582295)
+- UI & Layouts: Figma
+- API Documentation: URL + /docs/en/
 
