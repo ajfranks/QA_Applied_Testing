@@ -18,7 +18,7 @@ Task 2: Mobile Application Testing
 - Tested the Urban Scooter Android mobile application using Android Studio with a Pixel 5 Emulator 
 - Designed and executed test cases
 - Validated UI layout using Figma designs
-- Used Postman to send a POST request with a JSON request body to create a courier account required for mobile app loin
+- Used Postman to send a POST request with a JSON request body to create a courier account required for mobile app login
 - Verified mobile app interaction with the backend API
 
 
