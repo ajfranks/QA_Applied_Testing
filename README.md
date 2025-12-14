@@ -28,3 +28,9 @@ Task 3: Backend (API) Testing:
 - Verified request/response behavior and error handling
 
 ## Test Coverage
+- Task 1: 44 test cases
+- Task 2: 38 test cases
+- Task 3: 31 test cases
+
+## 
+
