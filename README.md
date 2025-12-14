@@ -25,7 +25,7 @@ Task 2: Mobile Application Testing
 Task 3: Backend (API) Testing:
 - Tested the Urban Scooter backend API
 - Focused on Add Courier and Delete Courier endpoints
-- Designed and executed API test cases
+- Designed and executed test cases
 - Verified request/response behavior and error handling
 
 ## Test Coverage
