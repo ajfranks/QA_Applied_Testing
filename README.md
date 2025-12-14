@@ -40,4 +40,5 @@ Task 3: Backend (API) Testing:
 - Test Case Documentation: [Microsoft Excel](https://docs.google.com/spreadsheets/d/1MC809gpvX9atGDPhO9FOwlJIKGrFVat9gURV0bnyVD0/edit?gid=1103582295#gid=1103582295)
 - UI & Layouts: Figma
 - API Documentation: URL + /docs/en/
+- API Testing: Postman
 
